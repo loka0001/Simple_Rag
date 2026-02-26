@@ -8,7 +8,6 @@ A production-ready, modular Retrieval-Augmented Generation system with:
 
 ---
 
-## What's New in v2
 
 | Feature | Details |
 |---|---|
