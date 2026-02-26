@@ -1,4 +1,3 @@
-# api/app.py
 """
 FastAPI interface layer for the Agentic RAG system.
 
